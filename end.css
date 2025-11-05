@@ -1,0 +1,30 @@
+body{
+    background-image: url(IMG.jpg);
+    display: flex;
+    justify-content: center;
+    
+}
+.tnx{
+  background: transparent;
+   justify-self: center;
+   align-self: center;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   padding-top: 4rem;
+   border: solid 0.3rem;
+   border-radius: 25px;
+   border-color: blue;
+
+}
+.tnx h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+}
+.tnx h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+    
+}
